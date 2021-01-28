@@ -1,0 +1,1 @@
+This is the processing java application that has been running the "Sociometric.me" Installation at the Vienna Biennale - Made for You Exhibition. More Information on the Installation can be found here: https://designinvestigations.at/projects/sociometric-me/
